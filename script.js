@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const surpriseDisplay = document.getElementById('surprise-display'); 
 
     // 1. Nội dung lời chúc (Giữ nguyên phần này)
-    const fullText = "Con chúc mừng mẹ một ngày 20-10 thật ý nghĩa, tràn ngập niềm vui và hạnh phúc. Cảm ơn mẹ vì những điều tuyệt vời mà mẹ đã mang lại. Con chúc mẹ hãy luôn rạng rỡ như đóa hoa nhé!";
+    const fullText = "Con chúc mừng má một ngày 20-10 thật ý nghĩa, tràn ngập niềm vui và hạnh phúc. Cảm ơn má vì những điều tuyệt vời mà má đã mang lại. Con chúc má thật nhiều sức khỏe và hãy luôn rạng rỡ như đóa hoa nhé!";
     let index = 0;
     const typingSpeed = 50; 
     
